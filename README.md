@@ -25,9 +25,6 @@ npm test           # Vitest
 
 ## AI use disclosure
 
-Generated the initial project scaffold (README, .gitignore, LICENSE, package.json,
+Used AI to generate the initial project scaffold (README, .gitignore, LICENSE, package.json,
 tsconfig.json, ESLint flat config, GitHub Actions workflow, and a placeholder
-source file + test) with Claude, prompted with the assignment instructions from
-the Capstone Engineering Toolkit lecture (GitHub Actions, branch protection,
-licensing, and .gitignore hygiene for a TypeScript repo). Reviewed and adjusted
-the generated config before committing.
+source file + test) with Claude. I asked Claude to help me meet the requirements for the assignment. Then I reviewed and adjusted the generated files and tests before committing.
